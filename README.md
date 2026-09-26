@@ -25,6 +25,6 @@ I share my thoughts and opinions on music and other things that interest me on m
 
 ## 🤓 Fun Fact
 
-I read physics for fun, which is probably already a fun fact.
+- I read physics for fun, which is probably already a fun fact.
 
-I probably spend as much time listening to Beethoven and Bach as I do reading physics.
+- I probably spend as much time listening to Beethoven and Bach as I do reading physics.
