@@ -1,29 +1,30 @@
 # Hi there 👋
 
+I'm a physics student **who** is interested in computational science, theoretical physics, and scientific computing.
+
+I share my thoughts and opinions on music and other things that interest me on my website. Most of them are written in Chinese, though.
+
 ## 🔭 Currently Working On
 
-- Learning and exploring computational science through projects and research notes
-- Maintaining my personal website: https://famatf.com
+- Maintaining my personal website: [famatf.com](https://famatf.com)
 
 ## 🌱 Currently Learning
 
-- Python programming
+- Python
 - Scientific computing
 - Molecular dynamics simulations
 - Data analysis
-- QFT
+- Quantum Field Theory
+- J. J. Sakurai's *Modern Quantum Mechanics*
 
-<!--
-**famatf/famatf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧪 Interests
 
-Here are some ideas to get you started:
+- Computational physics
+- Theoretical physics
+- Quantum Field Theory
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤓 Fun Fact
+
+I read physics for fun, which is probably already a fun fact.
+
+I probably spend as much time listening to Beethoven and Bach as I do reading physics.
